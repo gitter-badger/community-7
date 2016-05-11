@@ -1,5 +1,7 @@
 # TREZOR Community
 
+[![Join the chat at https://gitter.im/trezor/community](https://badges.gitter.im/trezor/community.svg)](https://gitter.im/trezor/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository does not hold any code.
 
 It is just for the discussion of TREZOR Developer Community via GitHub issues.
